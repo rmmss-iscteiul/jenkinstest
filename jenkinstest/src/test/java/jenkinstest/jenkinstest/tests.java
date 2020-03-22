@@ -29,6 +29,7 @@ public class tests {
 	@Test
 	public void test() {
 		assertEquals(test.metodo(),1);
+		
 	}
 
 }
